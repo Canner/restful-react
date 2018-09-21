@@ -1,5 +1,5 @@
 {
-  "name": "restful-react",
+  "name": "@canner/restful-react",
   "description": "A declarative client from RESTful React Apps",
   "version": "5.1.1",
   "main": "lib/index.js",
